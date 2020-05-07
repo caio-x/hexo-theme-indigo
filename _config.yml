@@ -160,8 +160,8 @@ about: 用户页面中作者相关的描述性文字，如不需要设为 false
 
 # 动态定义title
 title_change:
-  normal: 刷新完成~
-  leave: 刷新中...
+  normal: 回来啦~
+  leave: 离开中...
 
 # 设置为 true 发布后将使用 unpkg cdn 最新的主题样式
 # 如果想让你的自定义样式生效，把此项设为 false
