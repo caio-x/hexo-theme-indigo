@@ -19,26 +19,26 @@ menu:
     text: Categories
     url: /categories
   github:
-    url: https://github.com/yscoder
+    url: https://github.com/caio-x
     target: _blank
-  weibo:
-    url: http://www.weibo.com/ysweb
-    target: _blank
-  link:
-    text: 测试
-    url: /custom
+#  weibo:
+#    url: http://www.weibo.com/ysweb
+#    target: _blank
+#  link:
+#    text: 测试
+#    url: /custom
 
 # 你的头像url
 avatar: /img/avatar.jpg
 # avatar link
 avatar_link: /
 # 头像背景图
-brand: /img/brand.jpg
+brand: /img/bg.png
 # favicon
 favicon: /favicon.ico
 
 # email
-email: 634206017@qq.com
+email: omblcky@gmail.com
 
 # 设置 Android L Chrome 浏览器状态栏颜色
 color: '#3F51B5'
@@ -62,7 +62,7 @@ show_last_updated: true
 share: true
 
 # 是否开启打赏，关闭 reward: false
-reward:
+reward: false
   title: 谢谢大爷~
   wechat: /img/wechat.jpg     #微信，关闭设为 false
   alipay: /img/alipay.jpg     #支付宝，关闭设为 false
